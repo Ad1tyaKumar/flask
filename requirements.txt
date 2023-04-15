@@ -8,7 +8,7 @@ Flask_Cors==3.0.10
 gnews==0.2.7
 newspaper3k==0.2.8
 nltk==3.8.1
-Requests==2.28.2
+Requests==2.26.0
 textblob==0.17.1
 
 
